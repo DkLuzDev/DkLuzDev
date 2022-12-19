@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Development
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on C# SQL Server
+- 👯 I’m looking to collaborate on C#, SQL Server
 
 <div align="center">
   <a href="https://github.com/DkLuzDev">
